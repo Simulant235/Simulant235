@@ -23,113 +23,118 @@
 <br>
 <!-- TECHNISCHE FÄHIGKEITEN -->
 <h2>🔹 TECHNISCHE FÄHIGKEITEN</h2>
+
 <section>
-        <h3>🔹 Auszeichnungssprachen</h3>
-    <table>
-        <tr>
-            <th>Sprache</th>
-            <th class="stars">Kenntnisstand</th>
-            <th>Bemerkungen</th>
-        </tr>
-        <tr>
-            <td>HTML5</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td>Grundgerüst für Webseiten und Applikationen</td>
-        </tr>
-        <tr>
-            <td>CSS3</td>
-            <td>⭐⭐⭐ ☆ ☆</td>
-            <td>Gestaltung von Oberflächen, einfache Designs</td>
-        </tr>
-    </table>
-<section>
-    <h3>🔹 Programmiersprachen</h3>
-    <table>
-        <tr>
-            <th>Sprache</th>
-            <th class="stars">Kenntnisstand</th>
-            <th>Bemerkungen</th>
-        </tr>
-        <tr>
-            <td>SQL</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td>Datenbankabfragen, erstellen und bearbeiten von relationalen Daten</td>
-        </tr>
-        <tr>
-            <td>Python</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td>Scripting, Automatisierung von Abläufen</td>
-        </tr>
-        <tr>
-            <td>Java</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td>OOP, Lieblingsprogrammiersprache</td>
-        </tr>
-        <tr>
-            <td>PHP</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td>Backend-Entwicklung, Webapplikationen</td>
-        </tr>
-        <tr>
-            <td>JavaScript</td>
-            <td>⭐⭐⭐ ☆  ☆</td>
-            <td>Interaktivität, dynamische Webseiten</td>
-        </tr>
-    </table>
+  <h3>🔹 Auszeichnungssprachen</h3>
+  <table>
+    <tr>
+      <th>Sprache</th>
+      <th class="stars">Kenntnisstand</th>
+      <th>Bemerkungen</th>
+    </tr>
+    <tr>
+      <td>HTML5</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Struktur, Formulare, Semantik</td>
+    </tr>
+    <tr>
+      <td>CSS3</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>Layout, Farben, einfache Designs</td>
+    </tr>
+  </table>
 </section>
-    <h3>🔹 Tools</h3>
-    <table>
-        <tr>
-            <th>Tool</th>
-            <th class="stars">Kenntnisstand</th>
-            <th>Bemerkungen</th>
-        </tr>
-        <tr>
-            <td>Adobe</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Autodesk</td>
-            <td>⭐⭐⭐ ☆  ☆</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Microsoft</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Visual Studio Code</td>
-            <td>⭐⭐⭐⭐⭐</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Eclipse</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>XAMPP</td>
-            <td>⭐⭐⭐⭐⭐</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>MySQL</td>
-            <td>⭐⭐⭐⭐⭐</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Docker</td>
-            <td>⭐⭐⭐ ☆  ☆</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>ProjectLibre</td>
-            <td>⭐⭐⭐⭐ ☆</td>
-            <td></td>
-        </tr>
-    </table>
+
+<section>
+  <h3>🔹 Programmiersprachen</h3>
+  <table>
+    <tr>
+      <th>Sprache</th>
+      <th class="stars">Kenntnisstand</th>
+      <th>Bemerkungen</th>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>SELECT, JOINs, Tabellen erstellen</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Skripte, Automatisierung, CLI</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>OOP, Lieblingssprache</td>
+    </tr>
+    <tr>
+      <td>PHP</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Backend, Sessions, Formhandling</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>DOM, Events, einfache Logik</td>
+    </tr>
+  </table>
+</section>
+
+<section>
+  <h3>🔹 Tools</h3>
+  <table>
+    <tr>
+      <th>Tool</th>
+      <th class="stars">Kenntnisstand</th>
+      <th>Bemerkungen</th>
+    </tr>
+    <tr>
+      <td>Adobe</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Bildbearbeitung, UI</td>
+    </tr>
+    <tr>
+      <td>Autodesk</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>Technische Zeichnungen</td>
+    </tr>
+    <tr>
+      <td>Microsoft</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Word, Excel, PowerPoint</td>
+    </tr>
+    <tr>
+      <td>Visual Studio Code</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>Haupt-IDE, Erweiterungen</td>
+    </tr>
+    <tr>
+      <td>Eclipse</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Java-Projekte, Debugging</td>
+    </tr>
+    <tr>
+      <td>XAMPP</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>Lokaler Webserver, PHP/MySQL</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>Datenbankverwaltung, Abfragen</td>
+    </tr>
+    <tr>
+      <td>Docker</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>Container-Grundlagen</td>
+    </tr>
+    <tr>
+      <td>ProjectLibre</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Projektplanung, Gantt-Diagramme</td>
+    </tr>
+  </table>
 </section>
 <br>
 <h2>🔹 Projekte</h2>

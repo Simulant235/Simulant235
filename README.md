@@ -172,8 +172,8 @@
 <section>
     <h2>📞 Kontakt</h2>
     <ul>
-        <li><strong>🔹Email:</strong> <a href="mailto:zulfugar.aliev@stud.edbus.ch">zulfugar.aliev@stud.edbus.ch</a></li>
-        <li><strong>🔹Github:</strong> <a href="https://github.com/Simulant235"  target="_blank">github.com/deinname</a></li>
+        <li><strong>Email:</strong> <a href="mailto:zulfugar.aliev@stud.edbus.ch">zulfugar.aliev@stud.edbus.ch</a></li>
+        <li><strong>Github:</strong> <a href="https://github.com/Simulant235"  target="_blank">github.com/deinname</a></li>
     </ul>
 </section>
 <br>

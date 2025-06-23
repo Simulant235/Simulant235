@@ -21,9 +21,9 @@
     </p>
 </section>
 
-<!-- TECHNISCHE FÄHIGKEITEN -->
+ <h3>🔹 TECHNISCHE FÄHIGKEITEN</h3>
 <section>
-        <h2>🔹 Auszeichnungssprachen</h2>
+        <h3>🔹 Auszeichnungssprachen</h3>
     <table>
         <tr>
             <th>Sprache</th>
@@ -42,7 +42,7 @@
         </tr>
     </table>
 <section>
-    <h2>🔹 Programmiersprachen</h2>
+    <h3>🔹 Programmiersprachen</h3>
     <table>
         <tr>
             <th>Sprache</th>
@@ -76,7 +76,7 @@
         </tr>
     </table>
 </section>
-    <h2>🔹 Tools</h2>
+    <h3>🔹 Tools</h3>
     <table>
         <tr>
             <th>Tool</th>

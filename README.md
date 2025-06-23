@@ -187,7 +187,11 @@
     <h3>🔹 Zeugnisse Semester 1-3</h3>
     <p>
         <a href="Zeugnis Sem. 1.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 1 als PDF herunterzuladen</a>
+    </p>
+    <p>
         <a href="Zeugnis Sem. 2.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 2 als PDF herunterzuladen</a>
+    </p>
+    <p>
         <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 3 als PDF herunterzuladen</a>
     </p>
     <h3>🔹 Modulnotenübersicht</h3>

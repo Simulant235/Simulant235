@@ -91,8 +91,8 @@
     </tr>
     <tr>
       <td>Adobe</td>
-      <td>⭐⭐⭐⭐ ☆</td>
-      <td>Bildbearbeitung, UI</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>Bildbearbeitung, Videobearbeitung</td>
     </tr>
     <tr>
       <td>Autodesk</td>

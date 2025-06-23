@@ -27,7 +27,7 @@
 
   <section id="skills">
     <h2>Technische Skills</h2>
-    <h3>📜 Programmiersprachen</h3>
+    <h3>✨ Auszeichnungssprachen</h3>
     <table>
       <thead>
         <tr>
@@ -49,17 +49,17 @@
         </tr>
         <tr>
           <td>PHP</td>
-          <td>⭐⭐⭐☆☆</td>
+          <td>⭐⭐⭐☆ ☆</td>
           <td>Backend Web und komplexe Webapplikationen</td>
         </tr>
         <tr>
           <td>HTML5</td>
-          <td>⭐⭐⭐☆☆</td>
+          <td>⭐⭐⭐☆ ☆</td>
           <td>Grundgerüst für Applikationen</td>
         </tr>
         <tr>
           <td>JavaScript</td>
-          <td>⭐⭐⭐☆☆</td>
+          <td>⭐⭐⭐☆ ☆</td>
           <td>Dynamik und Interaktivität</td>
         </tr>
       </tbody>

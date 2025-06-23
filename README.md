@@ -2,7 +2,6 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Zulfugar Aliev - Portfolio</title>
 </head>
 <body>
 
@@ -143,7 +142,7 @@
         <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
         <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
         <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M294" target="_blank">GitHub Repository</a></p>
 </section>
 
 <section>
@@ -151,7 +150,7 @@
         <p><strong>Beschreibung:</strong> Eine Webanwendung zur Verwaltung von Büchern und Kunden, mit der Bücher sortiert, gefiltert, gesucht sowie verwaltet werden können. Kunden lassen sich ebenfalls durchsuchen, hinzufügen, bearbeiten und löschen – alles über ein Admin-Panel. Der Administrator kann sich einloggen, das Passwort ändern und hat volle Kontrolle über Bücher- und Kundendaten. Die Anwendung ist für administrative Nutzung konzipiert und bietet eine strukturierte Oberfläche zur Datenpflege.</p>
         <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
         <img src="https://i.imgflip.com/9yaxnt.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M322-M295" target="_blank">GitHub Repository</a></p>
 </section>
 
 <section>
@@ -159,7 +158,7 @@
         <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
         <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
         <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M346" target="_blank">GitHub Repository</a></p>
 </section>
 
 <section>
@@ -167,36 +166,7 @@
         <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
         <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
         <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>
-</section>
-
-<!-- PROJEKTE -->
-<section>
-    <h2>📂 Meine Projekte</h2>
-
-    <!-- PROJEKT 1 -->
-
-
-    <!-- PROJEKT 2 -->
-        <h3>🔹 Projekt 2: [Titel deines Projekts]</h3>
-        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
-        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf]</p>
-        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
-        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt2]" target="_blank">GitHub Repository</a></p>
-
-    <!-- PROJEKT 3 -->
-        <h3>🔹 Projekt 3: [Titel deines Projekts]</h3>
-        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
-        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf]</p>
-        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
-        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt3]" target="_blank">GitHub Repository</a></p>
-
-    <!-- PROJEKT 4 -->
-        <h3>🔹 Projekt 4: [Titel deines Projekts]</h3>
-        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
-        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf]</p>
-        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
-        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt4]" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M165" target="_blank">GitHub Repository</a></p>
 </section>
 
 <!-- KONTAKT -->

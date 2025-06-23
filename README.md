@@ -30,6 +30,15 @@
     </ul>
 </section>
 
+<section>
+    <h2>🖥️ Tool Kentnisse</h2>
+        <h3>🔹 Projekt 2: [Titel deines Projekts]</h3>
+        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
+        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf]</p>
+        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
+        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt2]" target="_blank">GitHub Repository</a></p>
+</section>
+
 <!-- PROJEKTE -->
 <section>
     <h2>📂 Meine Projekte</h2>

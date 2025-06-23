@@ -32,12 +32,12 @@
         </tr>
         <tr>
             <td>HTML5</td>
-            <td>⭐⭐⭐⭐☆</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td>Grundgerüst für Webseiten und Applikationen</td>
         </tr>
         <tr>
             <td>CSS3</td>
-            <td>⭐⭐⭐⭐☆</td>
+            <td>⭐⭐⭐ ☆ ☆</td>
             <td>Gestaltung von Oberflächen, einfache Designs</td>
         </tr>
     </table>
@@ -51,27 +51,27 @@
         </tr>
         <tr>
             <td>SQL</td>
-            <td>⭐⭐⭐⭐⭐</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td>Datenbankabfragen, erstellen und bearbeiten von relationalen Daten</td>
         </tr>
         <tr>
             <td>Python</td>
-            <td>⭐⭐⭐⭐☆</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td>Scripting, Automatisierung von Abläufen</td>
         </tr>
         <tr>
             <td>Java</td>
-            <td>⭐⭐⭐⭐☆</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td>OOP, Lieblingsprogrammiersprache</td>
         </tr>
         <tr>
             <td>PHP</td>
-            <td>⭐⭐⭐☆☆</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td>Backend-Entwicklung, Webapplikationen</td>
         </tr>
         <tr>
             <td>JavaScript</td>
-            <td>⭐⭐⭐☆☆</td>
+            <td>⭐⭐⭐ ☆ ☆</td>
             <td>Interaktivität, dynamische Webseiten</td>
         </tr>
     </table>
@@ -85,47 +85,47 @@
         </tr>
         <tr>
             <td>Adobe</td>
-            <td>[⭐⭐⭐⭐]</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td></td>
         </tr>
         <tr>
             <td>Autodesk</td>
-            <td>[⭐⭐⭐]</td>
+            <td>⭐⭐⭐ ☆ ☆</td>
             <td></td>
         </tr>
         <tr>
             <td>Microsoft</td>
-            <td>[⭐⭐⭐⭐]</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td></td>
         </tr>
         <tr>
             <td>Visual Studio Code</td>
-            <td>[⭐⭐⭐⭐]</td>
+            <td>⭐⭐⭐⭐⭐</td>
             <td></td>
         </tr>
         <tr>
             <td>Eclipse</td>
-            <td>[⭐⭐⭐]</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td></td>
         </tr>
         <tr>
             <td>XAMPP</td>
-            <td>[⭐⭐⭐]</td>
+            <td>⭐⭐⭐⭐⭐</td>
             <td></td>
         </tr>
         <tr>
             <td>MySQL</td>
-            <td>[⭐⭐⭐]</td>
+            <td>⭐⭐⭐⭐⭐</td>
             <td></td>
         </tr>
         <tr>
             <td>Docker</td>
-            <td>[⭐⭐⭐]</td>
+            <td>⭐⭐⭐ ☆ ☆</td>
             <td></td>
         </tr>
         <tr>
             <td>ProjectLibre</td>
-            <td>[⭐⭐]</td>
+            <td>⭐⭐⭐⭐ ☆</td>
             <td></td>
         </tr>
     </table>

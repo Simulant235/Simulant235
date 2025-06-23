@@ -184,15 +184,15 @@
     <p>
         <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
     </p>
-    <h3>🔹 Noten Semester 1-3</h3>
+    <h3>🔹 Zeugnisse Semester 1-3</h3>
     <p>
-        <a href="file:///C:/Users/zulia/Downloads/Zeugnis%20Sem.%201.jpg" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
-        <a href="file:///C:/Users/zulia/Downloads/Zeugnis%20Sem.%202.jpg" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
-        <a href="file:///C:/Users/zulia/Downloads/Zeugnis%20Sem.%203.jpg" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+        <a href="Zeugnis Sem. 1.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 1 als PDF herunterzuladen</a>
+        <a href="Zeugnis Sem. 2.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 2 als PDF herunterzuladen</a>
+        <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 3 als PDF herunterzuladen</a>
     </p>
     <h3>🔹 Modulnotenübersicht</h3>
     <p>
-        <a href="file:///C:/Users/zulia/Downloads/Modulnotenübersicht.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+        <a href="Modulnotenübersicht.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Modulnotenübersicht als PDF herunterzuladen</a>
     </p>
 </section>
 

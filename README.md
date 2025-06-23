@@ -14,6 +14,7 @@
         Ich bin 17 Jahre alt und besuche momentan die Informatikmittelschule Basel mit voraussichtlichem Abschluss im Jahr 2026.
         Meine Leidenschaft gilt dem Bereich Datenbankmanagement und der Entwicklung von Webapplikationen.
         Ich überzeuge durch schnelle Auffassungsgabe, strukturiertes Denken und hohe Lernbereitschaft.
+        Ich bin nicht immer Zuhause vorm Computer aufzufinden. Vieleicht bin ich auch in Gempen am Motorrad fahren.
     </p>
     <p>
         Ziel ist es, erste praktische Erfahrungen als Entwickler oder Datenbankadministrator zu sammeln und mich langfristig in diesem Bereich weiterzuentwickeln.

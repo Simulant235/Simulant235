@@ -5,42 +5,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Salvatore Pontillo - GitHub Profil</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2 {
-      color: #1f1f1f;
-    }
-    nav ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    nav li {
-      margin: 8px 0;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 10px;
-    }
-    table, th, td {
-      border: 1px solid #ccc;
-    }
-    th, td {
-      padding: 10px;
-      text-align: left;
-    }
-    th {
-      background-color: #e0e0e0;
-    }
-    section {
-      margin-bottom: 40px;
-    }
-  </style>
 </head>
 <body>
 

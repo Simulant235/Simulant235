@@ -14,21 +14,145 @@
         Ich bin 17 Jahre alt und besuche momentan die Informatikmittelschule Basel mit voraussichtlichem Abschluss im Jahr 2026.
         Meine Leidenschaft gilt dem Bereich Datenbankmanagement und der Entwicklung von Webapplikationen.
         Ich überzeuge durch schnelle Auffassungsgabe, strukturiertes Denken und hohe Lernbereitschaft.
-        Ich bin nicht immer Zuhause vorm Computer aufzufinden. Vieleicht bin ich auch in Gempen am Motorrad fahren.
+        Ziel ist es, erste praktische Erfahrungen als Entwickler oder Datenbankadministrator zu sammeln und mich langfristig in diesem Bereich weiterzuentwickeln.
     </p>
     <p>
-        Ziel ist es, erste praktische Erfahrungen als Entwickler oder Datenbankadministrator zu sammeln und mich langfristig in diesem Bereich weiterzuentwickeln.
+        Ich bin nicht immer Zuhause vorm Computer aufzufinden. Vieleicht bin ich auch in Gempen am Motorrad fahren.
     </p>
 </section>
 
 <!-- TECHNISCHE FÄHIGKEITEN -->
 <section>
-    <h2>🖥️ Tool Kentnisse</h2>
-    <ul>
-        <li><strong>Programmiersprachen:</strong> Python, SQL / MySQL, Java, PHP, JavaScript</li>
-        <li><strong>Webtechnologien:</strong> HTML5, CSS3</li>
-        <li><strong>Tools:</strong> Visual Studio Code, Eclipse, XAMPP, Docker, Git, MySQL, ProjectLibre</li>
-    </ul>
+        <h2>🔹 Auszeichnungssprachen</h2>
+    <table>
+        <tr>
+            <th>Sprache</th>
+            <th class="stars">Kenntnisstand</th>
+            <th>Bemerkungen</th>
+        </tr>
+        <tr>
+            <td>HTML5</td>
+            <td>⭐⭐⭐⭐☆</td>
+            <td>Grundgerüst für Webseiten und Applikationen</td>
+        </tr>
+        <tr>
+            <td>CSS3</td>
+            <td>⭐⭐⭐⭐☆</td>
+            <td>Gestaltung von Oberflächen, einfache Designs</td>
+        </tr>
+    </table>
+<section>
+    <h2>🔹 Programmiersprachen</h2>
+    <table>
+        <tr>
+            <th>Sprache</th>
+            <th class="stars">Kenntnisstand</th>
+            <th>Bemerkungen</th>
+        </tr>
+        <tr>
+            <td>SQL</td>
+            <td>⭐⭐⭐⭐⭐</td>
+            <td>Datenbankabfragen, erstellen und bearbeiten von relationalen Daten</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>⭐⭐⭐⭐☆</td>
+            <td>Scripting, Automatisierung von Abläufen</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>⭐⭐⭐⭐☆</td>
+            <td>OOP, Lieblingsprogrammiersprache</td>
+        </tr>
+        <tr>
+            <td>PHP</td>
+            <td>⭐⭐⭐☆☆</td>
+            <td>Backend-Entwicklung, Webapplikationen</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>⭐⭐⭐☆☆</td>
+            <td>Interaktivität, dynamische Webseiten</td>
+        </tr>
+    </table>
+</section>
+    <h2>🔹 Tools</h2>
+    <table>
+        <tr>
+            <th>Tool</th>
+            <th class="stars">Kenntnisstand</th>
+            <th>Bemerkungen</th>
+        </tr>
+        <tr>
+            <td>Adobe</td>
+            <td>[⭐⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Autodesk</td>
+            <td>[⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microsoft</td>
+            <td>[⭐⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Visual Studio Code</td>
+            <td>[⭐⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Eclipse</td>
+            <td>[⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>XAMPP</td>
+            <td>[⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MySQL</td>
+            <td>[⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Docker</td>
+            <td>[⭐⭐⭐]</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ProjectLibre</td>
+            <td>[⭐⭐]</td>
+            <td></td>
+        </tr>
+    </table>
+</section>
+
+<section>
+        <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
+        <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
+        <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
+        <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
+        <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>
+</section>
+
+<section>
+        <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
+        <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
+        <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
+        <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
+        <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>
+</section>
+
+<section>
+        <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
+        <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
+        <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
+        <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
+        <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>
 </section>
 
 <section>

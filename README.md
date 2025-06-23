@@ -20,7 +20,7 @@
 </section>
 <br>
 <!-- TECHNISCHE FÄHIGKEITEN -->
-<h2>🔹 TECHNISCHE FÄHIGKEITEN</h2>
+<h2>🏆 TECHNISCHE FÄHIGKEITEN</h2>
 
 <section>
   <h3>🔹 Auszeichnungssprachen</h3>
@@ -135,7 +135,7 @@
   </table>
 </section>
 <br>
-<h2>🔹 Projekte</h2>
+<h2>💻 Projekte</h2>
 <section>
         <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
         <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
@@ -172,8 +172,8 @@
 <section>
     <h2>📞 Kontakt</h2>
     <ul>
-        <li><strong>Email:</strong> <a href="mailto:zulfugar.aliev@stud.edbus.ch">zulfugar.aliev@stud.edbus.ch</a></li>
-        <li><strong>Github:</strong> <a href="https://github.com/Simulant235"  target="_blank">github.com/deinname</a></li>
+        <li><strong>🔹Email:</strong> <a href="mailto:zulfugar.aliev@stud.edbus.ch">zulfugar.aliev@stud.edbus.ch</a></li>
+        <li><strong>🔹Github:</strong> <a href="https://github.com/Simulant235"  target="_blank">github.com/deinname</a></li>
     </ul>
 </section>
 <br>

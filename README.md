@@ -176,12 +176,23 @@
         <li><strong>Github:</strong> <a href="https://github.com/Simulant235"  target="_blank">github.com/deinname</a></li>
     </ul>
 </section>
-
+<br>
 <!-- Dokumente -->
 <section>
-    <h2>📄 Lebenslauf inkl. Noten</h2>
+    <h2>📄 Dokumente</h2>
+    <h3>🔹 Lebenslauf inkl. Noten</h3>
     <p>
         <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+    </p>
+    <h3>🔹 Noten Semester 1-3</h3>
+    <p>
+        <a href="file:///C:/Users/zulia/Downloads/Zeugnis%20Sem.%201.jpg" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+        <a href="file:///C:/Users/zulia/Downloads/Zeugnis%20Sem.%202.jpg" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+        <a href="file:///C:/Users/zulia/Downloads/Zeugnis%20Sem.%203.jpg" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+    </p>
+    <h3>🔹 Modulnotenübersicht</h3>
+    <p>
+        <a href="file:///C:/Users/zulia/Downloads/Modulnotenübersicht.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
     </p>
 </section>
 

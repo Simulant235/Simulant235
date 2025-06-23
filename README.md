@@ -56,7 +56,7 @@
     <tr>
       <td>SQL</td>
       <td>⭐⭐⭐⭐ ☆</td>
-      <td>SELECT, JOINs, Tabellen erstellen</td>
+      <td>Normalisierung, Datenmanipulation</td>
     </tr>
     <tr>
       <td>Python</td>
@@ -102,7 +102,7 @@
     <tr>
       <td>Microsoft</td>
       <td>⭐⭐⭐⭐ ☆</td>
-      <td>Word, Excel, PowerPoint</td>
+      <td>Excel-Formeln, Professionelle Präsentationen</td>
     </tr>
     <tr>
       <td>Visual Studio Code</td>
@@ -127,7 +127,7 @@
     <tr>
       <td>Docker</td>
       <td>⭐⭐⭐ ☆ ☆</td>
-      <td>Container-Grundlagen</td>
+      <td>Dockerfiles schreiben, Container vernetzen</td>
     </tr>
     <tr>
       <td>ProjectLibre</td>

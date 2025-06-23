@@ -20,6 +20,7 @@
         Ich bin nicht immer Zuhause vorm Computer aufzufinden. Vieleicht bin ich auch in Gempen am Motorrad fahren.
     </p>
 </section>
+<br>
 <!-- TECHNISCHE FÄHIGKEITEN -->
 <h2>🔹 TECHNISCHE FÄHIGKEITEN</h2>
 <section>
@@ -130,7 +131,7 @@
         </tr>
     </table>
 </section>
-
+<br>
 <section>
         <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
         <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>

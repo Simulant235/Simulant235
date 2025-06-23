@@ -142,7 +142,7 @@
 
 <section>
         <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
-        <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
+        <p><strong>Beschreibung:</strong> Eine Webanwendung zur Verwaltung von Büchern und Kunden, mit der Bücher sortiert, gefiltert, gesucht sowie verwaltet werden können. Kunden lassen sich ebenfalls durchsuchen, hinzufügen, bearbeiten und löschen – alles über ein Admin-Panel. Der Administrator kann sich einloggen, das Passwort ändern und hat volle Kontrolle über Bücher- und Kundendaten. Die Anwendung ist für administrative Nutzung konzipiert und bietet eine strukturierte Oberfläche zur Datenpflege.</p>
         <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
         <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
         <p><strong>Link:</strong> <a href="[github.com/Simulant235/Modularbeit-294]" target="_blank">GitHub Repository</a></p>

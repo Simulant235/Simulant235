@@ -142,7 +142,7 @@
         <p><strong>Beschreibung:</strong> Eine interaktive TODO-Liste zum Hinzufügen, Bearbeiten, Löschen und Suchen von Aufgaben, entwickelt mit HTML, CSS und JavaScript. Die Daten werden mithilfe von LocalStorage im Browser gespeichert – ohne externe Datenbank oder PHP. Als Single Page Application (SPA) funktioniert die Anwendung flüssig auf einer Seite, wobei TODOs als Objekte mit Prioritätsberechnung verwaltet werden.</p>
         <p><strong>Technologien:</strong> HTML, CSS und JavaScript</p>
         <img src="https://i.imgflip.com/9yav6f.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M294" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M294" target="_blank">Modularbeit-M294</a></p>
 </section>
 
 <section>
@@ -150,7 +150,7 @@
         <p><strong>Beschreibung:</strong> Eine Webanwendung zur Verwaltung von Büchern und Kunden, mit der Bücher sortiert, gefiltert, gesucht sowie verwaltet werden können. Kunden lassen sich ebenfalls durchsuchen, hinzufügen, bearbeiten und löschen – alles über ein Admin-Panel. Der Administrator kann sich einloggen, das Passwort ändern und hat volle Kontrolle über Bücher- und Kundendaten. Die Anwendung ist für administrative Nutzung konzipiert und bietet eine strukturierte Oberfläche zur Datenpflege.</p>
         <p><strong>Technologien:</strong> HTML, CSS und PHP</p>
         <img src="https://i.imgflip.com/9yaxnt.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M322-M295" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M322-M295" target="_blank">Modularbeit-M322-M295</a></p>
 </section>
 
 <section>
@@ -158,7 +158,7 @@
         <p><strong>Beschreibung:</strong> Eine Webanwendung zur Verwaltung von virtuellen Maschinen in einer Cloud-Umgebung, bei der Kunden VMs mit verschiedenen Konfigurationen bestellen können. Die Anwendung übernimmt die automatische Zuweisung zu physischen Servern, berechnet den Preis und verwaltet Ressourcen. Zudem können VMs wieder gelöscht werden, wodurch die Ressourcen freigegeben werden.</p>
         <p><strong>Technologien:</strong> HTML, CSS und PHP</p>
         <img src="https://i.imgflip.com/9yb0iw.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M346" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M346" target="_blank">Modularbeit-M346</a></p>
 </section>
 
 <section>
@@ -166,7 +166,7 @@
         <p><strong>Beschreibung:</strong> Eine Python-Anwendung zur Verwaltung einer NoSQL-Datenbank (spiele mit Collection pcgames), die Spiele mit Eigenschaften wie Titel, Ausgabejahr, Download-Zahlen, Altersgrenze, Art und Wertung speichert. Das Terminal-basierte Programm ermöglicht das Hinzufügen, Ändern, Löschen und Suchen von Spielen über PyMongo. Es wurde mit Fokus auf Benutzerfreundlichkeit und effiziente Abfragen gestaltet.</p>
         <p><strong>Technologien:</strong> MongoDB und Python</p>
         <img src="https://i.imgflip.com/9yb0ul.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M165" target="_blank">GitHub Repository</a></p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M165" target="_blank">Modularbeit-M165</a></p>
 </section>
 <br>
 <!-- KONTAKT -->

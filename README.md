@@ -44,22 +44,22 @@
         </tr>
         <tr>
           <td>Java</td>
-          <td>⭐⭐⭐⭐☆</td>
+          <td>⭐⭐⭐⭐ ☆</td>
           <td>Lieblingsprogrammiersprache, OOP</td>
         </tr>
         <tr>
           <td>PHP</td>
-          <td>⭐⭐⭐☆ ☆</td>
+          <td>⭐⭐⭐ ☆ ☆</td>
           <td>Backend Web und komplexe Webapplikationen</td>
         </tr>
         <tr>
           <td>HTML5</td>
-          <td>⭐⭐⭐☆ ☆</td>
+          <td>⭐⭐⭐ ☆ ☆</td>
           <td>Grundgerüst für Applikationen</td>
         </tr>
         <tr>
           <td>JavaScript</td>
-          <td>⭐⭐⭐☆ ☆</td>
+          <td>⭐⭐⭐ ☆ ☆</td>
           <td>Dynamik und Interaktivität</td>
         </tr>
       </tbody>

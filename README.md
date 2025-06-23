@@ -20,8 +20,8 @@
         Ich bin nicht immer Zuhause vorm Computer aufzufinden. Vieleicht bin ich auch in Gempen am Motorrad fahren.
     </p>
 </section>
-
- <h3>🔹 TECHNISCHE FÄHIGKEITEN</h3>
+<!-- TECHNISCHE FÄHIGKEITEN -->
+<h3>🔹 TECHNISCHE FÄHIGKEITEN</h3>
 <section>
         <h3>🔹 Auszeichnungssprachen</h3>
     <table>

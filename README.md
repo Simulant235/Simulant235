@@ -71,7 +71,7 @@
         </tr>
         <tr>
             <td>JavaScript</td>
-            <td>⭐⭐⭐ ☆ ☆</td>
+            <td>⭐⭐⭐ ☆  ☆</td>
             <td>Interaktivität, dynamische Webseiten</td>
         </tr>
     </table>
@@ -90,7 +90,7 @@
         </tr>
         <tr>
             <td>Autodesk</td>
-            <td>⭐⭐⭐ ☆ ☆</td>
+            <td>⭐⭐⭐ ☆  ☆</td>
             <td></td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@
         </tr>
         <tr>
             <td>Docker</td>
-            <td>⭐⭐⭐ ☆ ☆</td>
+            <td>⭐⭐⭐ ☆  ☆</td>
             <td></td>
         </tr>
         <tr>

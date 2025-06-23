@@ -21,7 +21,7 @@
     </p>
 </section>
 <!-- TECHNISCHE FÄHIGKEITEN -->
-<h3>🔹 TECHNISCHE FÄHIGKEITEN</h3>
+<h2>🔹 TECHNISCHE FÄHIGKEITEN</h2>
 <section>
         <h3>🔹 Auszeichnungssprachen</h3>
     <table>

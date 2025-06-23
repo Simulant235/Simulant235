@@ -1,75 +1,91 @@
-# OnlineBewerbungsportfolio
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta charset="UTF-8">
+    <title>Zulfugar Aliev - Portfolio</title>
 </head>
 <body>
 
-  <h1>Willkommen zu meinem GitHub Profil</h1>
+<!-- ÜBER MICH -->
+<section>
+    <h2>👋 Über mich</h2>
+    <p>
+        Ich bin 17 Jahre alt und besuche momentan die Informatikmittelschule Basel mit voraussichtlichem Abschluss im Jahr 2026.
+        Meine Leidenschaft gilt dem Bereich Datenbankmanagement und der Entwicklung von Webapplikationen.
+        Ich überzeuge durch schnelle Auffassungsgabe, strukturiertes Denken und hohe Lernbereitschaft.
+    </p>
+    <p>
+        Ziel ist es, erste praktische Erfahrungen als Entwickler oder Datenbankadministrator zu sammeln und mich langfristig in diesem Bereich weiterzuentwickeln.
+    </p>
+</section>
 
-  <nav>
-    <h2>Inhaltsverzeichnis</h2>
+<!-- TECHNISCHE FÄHIGKEITEN -->
+<section>
+    <h2>🖥️ Tool Kentnisse</h2>
     <ul>
-      <li><a href="#ueber-mich">Über mich</a></li>
-      <li><a href="#skills">Technische Skills</a></li>
-      <li><a href="#anhaenge">Anhänge</a></li>
+        <li><strong>Programmiersprachen:</strong> Python, SQL / MySQL, Java, PHP, JavaScript</li>
+        <li><strong>Webtechnologien:</strong> HTML5, CSS3</li>
+        <li><strong>Tools:</strong> Visual Studio Code, Eclipse, XAMPP, Docker, Git, MySQL, ProjectLibre</li>
     </ul>
-  </nav>
+</section>
 
-  <section id="ueber-mich">
-    <h2>Über mich</h2>
-    <p><strong>Salvatore Pontillo</strong></p>
-    <p>Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, mit voraussichtlichem Abschluss in 2026.</p>
-    <p>Die Karten, die ich auf den Tisch lege, sind fundierte Datenbank- und Java-Kenntnisse – gepaart mit einem ausgeprägten Talent, komplexe Zusammenhänge zu erkennen und Projekte mit Struktur und Weitblick zu planen.</p>
-  </section>
+<!-- PROJEKTE -->
+<section>
+    <h2>📂 Meine Projekte</h2>
 
-  <section id="skills">
-    <h2>Technische Skills</h2>
-    <h3>✨ Auszeichnungssprachen</h3>
-    <table>
-      <thead>
-        <tr>
-          <th>Sprache</th>
-          <th>Kenntnislevel</th>
-          <th>Bemerkungen</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Python</td>
-          <td>⭐⭐⭐⭐⭐</td>
-          <td>Scripting und kleine Programme z. B. für Dateikonversion</td>
-        </tr>
-        <tr>
-          <td>Java</td>
-          <td>⭐⭐⭐⭐ ☆</td>
-          <td>Lieblingsprogrammiersprache, OOP</td>
-        </tr>
-        <tr>
-          <td>PHP</td>
-          <td>⭐⭐⭐ ☆  ☆</td>
-          <td>Backend Web und komplexe Webapplikationen</td>
-        </tr>
-        <tr>
-          <td>HTML5</td>
-          <td>⭐⭐⭐ ☆  ☆</td>
-          <td>Grundgerüst für Applikationen</td>
-        </tr>
-        <tr>
-          <td>JavaScript</td>
-          <td>⭐⭐⭐ ☆  ☆</td>
-          <td>Dynamik und Interaktivität</td>
-        </tr>
-      </tbody>
-    </table>
-  </section>
+    <!-- PROJEKT 1 -->
+    <article>
+        <h3>🔹 Projekt 1: [Titel deines Projekts]</h3>
+        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
+        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf, z. B. HTML, CSS, JavaScript]</p>
+        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
+        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt1]" target="_blank">GitHub Repository</a></p>
+    </article>
 
-  <section id="anhaenge">
-    <h2>Anhänge</h2>
-    <p>Hier kannst du z. B. Projekte, Zertifikate oder Links zu Repositories einfügen.</p>
-  </section>
+    <!-- PROJEKT 2 -->
+    <article>
+        <h3>🔹 Projekt 2: [Titel deines Projekts]</h3>
+        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
+        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf]</p>
+        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
+        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt2]" target="_blank">GitHub Repository</a></p>
+    </article>
+
+    <!-- PROJEKT 3 -->
+    <article>
+        <h3>🔹 Projekt 3: [Titel deines Projekts]</h3>
+        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
+        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf]</p>
+        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
+        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt3]" target="_blank">GitHub Repository</a></p>
+    </article>
+
+    <!-- PROJEKT 4 -->
+    <article>
+        <h3>🔹 Projekt 4: [Titel deines Projekts]</h3>
+        <p><strong>Beschreibung:</strong> [Füge hier eine kurze Beschreibung deines Projekts ein.]</p>
+        <p><strong>Technologien:</strong> [Liste die verwendeten Technologien auf]</p>
+        <p><strong>Screenshot:</strong> <br><img src="[pfad-zum-bild.jpg]" alt="Screenshot des Projekts" width="400"></p>
+        <p><strong>Link:</strong> <a href="[github.com/deinname/projekt4]" target="_blank">GitHub Repository</a></p>
+    </article>
+</section>
+
+<!-- KONTAKT -->
+<section>
+    <h2>📞 Kontakt</h2>
+    <ul>
+        <li><strong>Email:</strong> <a href="mailto:zulfugar.aliev@stud.edbus.ch">zulfugar.aliev@stud.edbus.ch</a></li>
+        <li><strong>Github:</strong> <a href="https://github.com/deinname"  target="_blank">github.com/deinname</a></li>
+    </ul>
+</section>
+
+<!-- LEbenslauf DOWNLOAD -->
+<section>
+    <h2>📄 Lebenslauf herunterladen</h2>
+    <p>
+        <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+    </p>
+</section>
 
 </body>
 </html>

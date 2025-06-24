@@ -52,11 +52,6 @@
       <th>Bemerkungen</th>
     </tr>
     <tr>
-      <td>SQL</td>
-      <td>⭐⭐⭐⭐ ☆</td>
-      <td>Normalisierung, Datenmanipulation</td>
-    </tr>
-    <tr>
       <td>Python</td>
       <td>⭐⭐⭐⭐ ☆</td>
       <td>Skripte, Automatisierung, CLI</td>
@@ -64,17 +59,42 @@
     <tr>
       <td>Java</td>
       <td>⭐⭐⭐⭐ ☆</td>
-      <td>OOP, Lieblingssprache</td>
+      <td>OOP, Interfaces, Collections, JUnit</td>
     </tr>
     <tr>
       <td>PHP</td>
       <td>⭐⭐⭐⭐ ☆</td>
-      <td>Backend, Sessions, Formhandling</td>
+      <td>Session, Authentifizierung, Sicherheitskonzepte</td>
     </tr>
     <tr>
       <td>JavaScript</td>
       <td>⭐⭐⭐ ☆ ☆</td>
       <td>DOM, Events, einfache Logik</td>
+    </tr>
+  </table>
+</section>
+
+  <h3>🔹 Datenbanktechnologien</h3>
+  <table>
+    <tr>
+      <th>Sprache</th>
+      <th class="stars">Kenntnisstand</th>
+      <th>Bemerkungen</th>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>⭐⭐⭐⭐ ☆</td>
+      <td>Normalisierung, Datenmanipulation</td>
+    </tr>
+    <tr>
+      <td>MariaDB</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>JOINs, Aggregatfunktionen, GROUP BY</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>Aggregation Framework, einfache Pipelines, Indexe</td>
     </tr>
   </table>
 </section>
@@ -103,14 +123,9 @@
       <td>Excel-Formeln, Professionelle Präsentationen</td>
     </tr>
     <tr>
-      <td>Visual Studio Code</td>
+      <td>IDE</td>
       <td>⭐⭐⭐⭐⭐</td>
-      <td>Haupt-IDE, Erweiterungen</td>
-    </tr>
-    <tr>
-      <td>Eclipse</td>
-      <td>⭐⭐⭐⭐ ☆</td>
-      <td>Java-Projekte, Debugging</td>
+      <td>Refactoring-Tools, Debugging</td>
     </tr>
     <tr>
       <td>XAMPP</td>

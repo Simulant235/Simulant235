@@ -160,7 +160,7 @@
 </section>
 
 <section>
-        <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
+        <h3>🔹 Administrative Webapplikation zur Buch- und Kundenverwaltung</h3>
         <p><strong>Beschreibung:</strong> Eine Webanwendung zur Verwaltung von Büchern und Kunden, mit der Bücher sortiert, gefiltert, gesucht sowie verwaltet werden können. Kunden lassen sich ebenfalls durchsuchen, hinzufügen, bearbeiten und löschen – alles über ein Admin-Panel. Der Administrator kann sich einloggen, das Passwort ändern und hat volle Kontrolle über Bücher- und Kundendaten. Die Anwendung ist für administrative Nutzung konzipiert und bietet eine strukturierte Oberfläche zur Datenpflege.</p>
         <p><strong>Technologien:</strong> HTML, CSS und PHP</p>
         <img src="https://i.imgflip.com/9yaxnt.gif" alt="Beispielbild von Wikipedia" />
@@ -168,7 +168,7 @@
 </section>
 
 <section>
-        <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
+        <h3>🔹 Webbasierte Verwaltungsplattform für virtuelle Maschinen</h3>
         <p><strong>Beschreibung:</strong> Eine Webanwendung zur Verwaltung von virtuellen Maschinen in einer Cloud-Umgebung, bei der Kunden VMs mit verschiedenen Konfigurationen bestellen können. Die Anwendung übernimmt die automatische Zuweisung zu physischen Servern, berechnet den Preis und verwaltet Ressourcen. Zudem können VMs wieder gelöscht werden, wodurch die Ressourcen freigegeben werden.</p>
         <p><strong>Technologien:</strong> HTML, CSS und PHP</p>
         <img src="https://i.imgflip.com/9yb0iw.gif" alt="Beispielbild von Wikipedia" />
@@ -176,7 +176,7 @@
 </section>
 
 <section>
-        <h3>🔹 Interaktive TODO-Liste mit JavaScript und LocalStorage</h3>
+        <h3>🔹 Terminalbasierte NoSQL-Datenbankverwaltung für Spieledaten</h3>
         <p><strong>Beschreibung:</strong> Eine Python-Anwendung zur Verwaltung einer NoSQL-Datenbank (spiele mit Collection pcgames), die Spiele mit Eigenschaften wie Titel, Ausgabejahr, Download-Zahlen, Altersgrenze, Art und Wertung speichert. Das Terminal-basierte Programm ermöglicht das Hinzufügen, Ändern, Löschen und Suchen von Spielen über PyMongo. Es wurde mit Fokus auf Benutzerfreundlichkeit und effiziente Abfragen gestaltet.</p>
         <p><strong>Technologien:</strong> MongoDB und Python</p>
         <img src="https://i.imgflip.com/9yb0ul.gif" alt="Beispielbild von Wikipedia" />
@@ -197,21 +197,21 @@
     <h2>📄 Dokumente</h2>
     <h3>🔹 Lebenslauf inkl. Noten</h3>
     <p>
-        <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Lebenslauf als PDF herunterzuladen</a>
+        <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Vollständiges Lebenslauf als PDF</a>
     </p>
     <h3>🔹 Zeugnisse Semester 1-3</h3>
     <p>
-        <a href="Zeugnis Sem. 1.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 1 als PDF herunterzuladen</a>
+        <a href="Zeugnis Sem. 1.jpg" target="_blank">🔗 Zeugnis Semester 1 als PDF</a>
     </p>
     <p>
-        <a href="Zeugnis Sem. 2.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 2 als PDF herunterzuladen</a>
+        <a href="Zeugnis Sem. 2.jpg" target="_blank">🔗 Zeugnis Semester 2 als PDF</a>
     </p>
     <p>
-        <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Hier klicken, um meine Zeugnis Semester 3 als PDF herunterzuladen</a>
+        <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Zeugnis Semester 3 als PDF</a>
     </p>
     <h3>🔹 Modulnotenübersicht</h3>
     <p>
-        <a href="Modulnotenübersicht.pdf" target="_blank">🔗 Hier klicken, um meinen vollständigen Modulnotenübersicht als PDF herunterzuladen</a>
+        <a href="Modulnotenübersicht.pdf" target="_blank">🔗 Vollständige Modulnotenübersicht als PDF</a>
     </p>
 </section>
 

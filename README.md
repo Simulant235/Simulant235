@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>CSS3</td>
-      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>⭐⭐ ☆ ☆ ☆</td>
       <td>Layout, Farben, einfache Designs</td>
     </tr>
   </table>
@@ -53,22 +53,22 @@
     </tr>
     <tr>
       <td>Python</td>
-      <td>⭐⭐⭐⭐ ☆</td>
-      <td>Skripte, Automatisierung, CLI</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>Skripte, Automatisierung</td>
     </tr>
     <tr>
       <td>Java</td>
       <td>⭐⭐⭐⭐ ☆</td>
-      <td>OOP, Interfaces, Collections, JUnit</td>
+      <td>OOP, Interfaces, Collections, Vererbung </td>
     </tr>
     <tr>
       <td>PHP</td>
-      <td>⭐⭐⭐⭐ ☆</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
       <td>Session, Authentifizierung, Sicherheitskonzepte</td>
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>⭐⭐ ☆ ☆ ☆</td>
       <td>DOM, Events, einfache Logik</td>
     </tr>
   </table>

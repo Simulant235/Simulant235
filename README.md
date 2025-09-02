@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>HTML5</td>
-      <td>⭐⭐⭐⭐ ☆</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
       <td>Struktur, Formulare, Semantik</td>
     </tr>
     <tr>

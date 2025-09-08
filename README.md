@@ -180,6 +180,13 @@
         <img src="https://i.imgflip.com/9yb0ul.gif" alt="Beispielbild von Wikipedia" />
         <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M165" target="_blank">Modularbeit-M165</a></p>
 </section>
+
+<section>
+        <h3>🔹 Java-Programm zur Berechnung von ggT und kgV</h3>
+        <p><strong>Beschreibung:</strong> Ein kleines Java-Konsolenprogramm, das zwei ganze Zahlen einliest und den größten gemeinsamen Teiler (ggT) sowie das kleinste gemeinsame Vielfache (kgV) berechnet. Der Benutzer kann auswählen, welches Ergebnis angezeigt werden soll, und das Programm bietet die Möglichkeit, die Berechnung mehrfach zu wiederholen. Sonderfälle wie Eingaben mit 0 werden geprüft und entsprechend behandelt.</p>
+        <p><strong>Technologien:</strong> Java</p>
+        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Hausaufgabe-f-r-22.08.2025" target="_blank">Hausaufgabe-für-22.08.2025</a></p>
+</section>
 <br>
 <section>
     <h2>📞 Kontakt</h2>

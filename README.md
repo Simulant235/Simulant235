@@ -213,7 +213,7 @@
         <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Zeugnis Semester 3 als PDF</a>
     </p>
     <p>
-        <a href="Zeugnis Sem. 4.jpg" target="_blank">🔗 Zeugnis Semester 4 als PDF</a>
+        <a href="Zeugnis Sem. 4.pdf" target="_blank">🔗 Zeugnis Semester 4 als PDF</a>
     </p>
     <h3>🔹 Modulnotenübersicht</h3>
     <p>

@@ -67,7 +67,7 @@
     <tr>
       <td>JavaScript</td>
       <td>⭐⭐ ☆ ☆ ☆</td>
-      <td>DOM, Events, einfache Logik</td>
+      <td>DOM, Funktionen, Objekte & Arrays</td>
     </tr>
   </table>
 </section>

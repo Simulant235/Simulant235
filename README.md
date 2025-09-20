@@ -82,17 +82,12 @@
     <tr>
       <td>SQL</td>
       <td>⭐⭐⭐⭐ ☆</td>
-      <td>Normalisierung, Datenmanipulation</td>
-    </tr>
-    <tr>
-      <td>MariaDB</td>
-      <td>⭐⭐⭐ ☆ ☆</td>
-      <td>JOINs, Aggregatfunktionen, GROUP BY</td>
+      <td>Group By, Views, Trigger</td>
     </tr>
     <tr>
       <td>MongoDB</td>
       <td>⭐⭐⭐ ☆ ☆</td>
-      <td>Aggregation Framework, einfache Pipelines, Indexe</td>
+      <td>Lookup, Indexe</td>
     </tr>
   </table>
 </section>

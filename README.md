@@ -5,19 +5,6 @@
 </head>
 <body>
 
-
-<section>
-    <h2>👋 Über mich</h2>
-    <p>
-        Ich bin 17 Jahre alt und besuche momentan die Informatikmittelschule Basel mit voraussichtlichem Abschluss im Jahr 2026.
-        Meine Leidenschaft gilt dem Bereich Datenbankmanagement und der Entwicklung von Applikationen.
-        Ich überzeuge durch schnelle Auffassungsgabe, strukturiertes Denken und hohe Lernbereitschaft.
-    </p>
-    <p>
-        Ziel ist es, erste praktische Erfahrungen als Entwickler oder Datenbankadministrator zu sammeln und mich langfristig in diesem Bereich weiterzuentwickeln.
-    </p>
-</section>
-<br>
 <h2>🏆 TECHNISCHE FÄHIGKEITEN</h2>
 
 <section>
@@ -183,38 +170,6 @@
         <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Hausaufgabe-f-r-22.08.2025" target="_blank">Hausaufgabe-für-22.08.2025</a></p>
 </section>
 <br>
-<section>
-    <h2>📞 Kontakt</h2>
-    <ul>
-        <li><strong>Email:</strong> <a href="mailto:zulfugar.aliev@stud.edbus.ch">zulfugar.aliev@stud.edbus.ch</a></li>
-        <li><strong>Github:</strong> <a href="https://github.com/Simulant235"  target="_blank">github.com/deinname</a></li>
-    </ul>
-</section>
-<br>
-<section>
-    <h2>📄 Dokumente</h2>
-    <h3>🔹 Lebenslauf inkl. Noten</h3>
-    <p>
-        <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Vollständiges Lebenslauf als PDF</a>
-    </p>
-    <h3>🔹 Zeugnisse Semester 1-3</h3>
-    <p>
-        <a href="Zeugnis Sem. 1.jpg" target="_blank">🔗 Zeugnis Semester 1 als PDF</a>
-    </p>
-    <p>
-        <a href="Zeugnis Sem. 2.jpg" target="_blank">🔗 Zeugnis Semester 2 als PDF</a>
-    </p>
-    <p>
-        <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Zeugnis Semester 3 als PDF</a>
-    </p>
-    <p>
-        <a href="Zeugnis Sem. 4.pdf" target="_blank">🔗 Zeugnis Semester 4 als PDF</a>
-    </p>
-    <h3>🔹 Modulnotenübersicht</h3>
-    <p>
-        <a href="Modulnotenübersicht.pdf" target="_blank">🔗 Vollständige Modulnotenübersicht als PDF</a>
-    </p>
-</section>
 
 </body>
 </html>
